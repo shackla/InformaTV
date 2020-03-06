@@ -1391,7 +1391,7 @@ input, select, textarea {
 			}
 
 		ul.contact-icons.color1 > li:before {
-			color: #726193;
+			color: #10E7DC ;
 		}
 
 		ul.contact-icons.color2 > li:before {
@@ -1637,7 +1637,7 @@ input, select, textarea {
 			input[type="button"].primary.color1,
 			button.primary.color1,
 			.button.primary.color1 {
-				color: #726193 !important;
+				color: #10E7DC  !important;
 			}
 
 			input[type="submit"].primary.color2,
